@@ -8,20 +8,29 @@ This repository holds code and other relevant files for the [**Learning on Graph
 #### Organizers: [*Adrián Arnaiz*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francisco Escolano*](https://ellisalicante.org/tutorials/GraphRewiring), [*Nuria Oliver*](https://ellisalicante.org/tutorials/GraphRewiring), [*Edwing Hancock*](https://ellisalicante.org/tutorials/GraphRewiring)
 #### Panelists: [*Marika Zitnik*](https://ellisalicante.org/tutorials/GraphRewiring), [*Petar Veličković*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francesco Di Giovanni*](https://ellisalicante.org/tutorials/GraphRewiring)
 
+
+## Installation
+***CODE STILL TO BE ADDED***
+
+As most of the content is aimed to Google COLLAB, we developed self-contained jupyter notebooks with cells to install the libraries at the beginning of those. However, we will provide instructions to install the enviroment locally.
+
+**Each jupyter notebook has an icon at the top to open it in COLLAB by simply clicking on it**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb).
+
+
+In case that clicking the icon does not work, you can open it in COLLAB manually. To open the notebooks directly in COLLAB, go to the path of the notebook and change `https://github.com/[notebook_path]` to `https://colab.research.google.com/github/[notebook_path]`. For example, if you want to open `https://github.com/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb` in COLLAB, you should go to https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb
+
+To generate such links in one click, you can use the [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) Chrome extension.
+
 ## Code Explanation
 
-Code To be Added
-
+***CODE STILL TO BE ADDED***
 ```bash
 code
 ├── TBA
 ```
 
-## Installation
-
-As most of the content is aimed to google collab, we developed self-contained jupyter notebooks with cells to install the libraries at the beginning of those. However, we will provide instructions to install the enviroment locally.
-
 ## Slides
+**["Official Tutorial Web Page"](https://ellisalicante.org/tutorials/GraphRewiring)**
 
 ## Tutorial Content
 
@@ -75,14 +84,14 @@ As most of the content is aimed to google collab, we developed self-contained ju
           <li>Implications</li>
           <ul>
             <li>Differentiable Curvature</li>
-            <li>Stable Cheeguer constant</li>
+            <li>Stable Cheeger constant</li>
             <li>Node Classification. CT as diffusion or Positional Encoding.</li>
           </ul>
         </ul>
         <li><b>GAP-Layer</b></li>
         <ul>
           <li>Spectral Derivatives</li>
-          <li>Learning fiedler vector</li>
+          <li>Learning the Fiedler vector</li>
         </ul>
       </ul></td>
     </tr>
