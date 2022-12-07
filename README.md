@@ -8,6 +8,15 @@ This repository holds code and other relevant files for the [**Learning on Graph
 #### Organizers: [*Adrián Arnaiz*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francisco Escolano*](https://ellisalicante.org/tutorials/GraphRewiring), [*Nuria Oliver*](https://ellisalicante.org/tutorials/GraphRewiring), [*Edwing Hancock*](https://ellisalicante.org/tutorials/GraphRewiring)
 #### Panelists: [*Marika Zitnik*](https://ellisalicante.org/tutorials/GraphRewiring), [*Petar Veličković*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francesco Di Giovanni*](https://ellisalicante.org/tutorials/GraphRewiring)
 
+|Sections|
+|-|
+| [Installation](#installation)|
+| [Code Explanation](#code-explanation)|
+| [Slides](#slides)|
+| [Tutorial Content](#tutorial-content)|
+| [Troubleshooting](#troubleshooting)|
+| [Aknowledgments](#aknowledgments) |
+
 
 ## Installation
 ***CODE STILL TO BE ADDED***
@@ -17,11 +26,14 @@ As most of the content is aimed to Google COLLAB, we developed self-contained ju
 **Each jupyter notebook has an icon at the top to open it in COLLAB by simply clicking on it**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb).
 
 
-In case that clicking the icon does not work, you can open it in COLLAB manually. To open the notebooks directly in COLLAB, go to the path of the notebook and change `https://github.com/[notebook_path]` to `https://colab.research.google.com/github/[notebook_path]`. For example, if you want to open `https://github.com/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb` in COLLAB, you should go to https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb
-
-To generate such links in one click, you can use the [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) Chrome extension.
-
 ## Code Explanation
+
+| File | Collab|
+|-|-|
+| Introduction to Spectral Theory |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb)|
+| Lovász Bound and Commute Times | |
+| CT-Layer | |
+| GAP-Layer| | 
 
 ***CODE STILL TO BE ADDED***
 ```bash
@@ -123,7 +135,13 @@ code
 </table>
 </div>
 
+## Troubleshooting
 
+In case that clicking the icon does not work, you can open it in COLLAB manually. To open the notebooks directly in COLLAB, go to the path of the notebook and change `https://github.com/[notebook_path]` to `https://colab.research.google.com/github/[notebook_path]`. For example, if you want to open `https://github.com/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb` in COLLAB, you should go to https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb
+
+To generate such links in one click, you can use the [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) Chrome extension.
+
+**Contact adrian@ellisalicante.org**.
 
 ## Aknowledgments
 
