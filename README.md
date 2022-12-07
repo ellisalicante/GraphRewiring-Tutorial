@@ -27,6 +27,14 @@ As most of the content is aimed to Google COLLAB, we developed self-contained ju
 
 **Each jupyter notebook has an icon at the top to open it in COLLAB by simply clicking on it**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb).
 
+| File | Collab|
+|-|-|
+| Introduction to Spectral Theory |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb)|
+| Transductive RW||
+| Lovász Bound and Commute Times | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/3-Lovasz-Bound-and-CT.ipynb) |
+| CT-Layer |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/3-Inductive-Rewiring-CTLayer.ipynb) |
+| GAP-Layer| | 
+
 ### Local
 
 ```bash
@@ -36,14 +44,6 @@ git submodule update --init --recursive
 ```
 
 ## Code Explanation
-
-| File | Collab|
-|-|-|
-| Introduction to Spectral Theory |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb)|
-| Transductive RW||
-| Lovász Bound and Commute Times | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/3-Lovasz-Bound-and-CT.ipynb) |
-| CT-Layer |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/3-Inductive-Rewiring-CTLayer.ipynb) |
-| GAP-Layer| | 
 
 ***CODE STILL TO BE ADDED***
 ```bash
