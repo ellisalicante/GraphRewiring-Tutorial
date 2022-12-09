@@ -30,8 +30,8 @@ As most of the content is aimed to Google COLLAB, we developed self-contained ju
 | File | Collab|
 |-|-|
 | Introduction to Spectral Theory |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/0-Spectral-Background.ipynb)|
-| Transductive RW||
-| Lovász Bound and Commute Times | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/3-Lovasz-Bound-and-CT.ipynb) |
+| Transductive RW|![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/1-Transductive-Rewiring.ipynb)|
+| Lovász Bound and Commute Times | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/2-Lovasz-Bound-and-CT.ipynb) |
 | CT-Layer |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellisalicante/GraphRewiring-Tutorial/blob/main/3-Inductive-Rewiring-CTLayer.ipynb) |
 | GAP-Layer| | 
 
@@ -48,7 +48,7 @@ git submodule update --init --recursive
 ***CODE STILL TO BE ADDED***
 ```bash
 code
-├── TBA
+├── DiffWire #Original Repositori of DiffWire (CT-Layer, GAP-Layer, trained models...)
 ```
 
 ## Slides
