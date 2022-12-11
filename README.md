@@ -21,7 +21,6 @@ This repository holds code and other relevant files for the [**Learning on Graph
 ## Installation
 
 ### COLLAB
-***CODE STILL TO BE ADDED***
 
 As most of the content is aimed to Google COLLAB, we developed self-contained jupyter notebooks with cells to install the libraries at the beginning of those. However, we will provide instructions to install the enviroment locally.
 
@@ -37,6 +36,9 @@ As most of the content is aimed to Google COLLAB, we developed self-contained ju
 
 ### Local
 
+Future instructions to be added
+#TBA - environment installations
+
 ```bash
 git clone https://github.com/ellisalicante/GraphRewiring-Tutorial
 git submodule update --init --recursive
@@ -45,10 +47,10 @@ git submodule update --init --recursive
 
 ## Code Explanation
 
-***CODE STILL TO BE ADDED***
 ```bash
 code
 ├── DiffWire #Original Repositori of DiffWire (CT-Layer, GAP-Layer, trained models...)
+├── *.ipynb #Notebooks for each of the parts of the tutorial
 ```
 
 ## Slides
