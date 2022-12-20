@@ -7,7 +7,7 @@ This repository holds code and other relevant files about **["Graph Rewiring: Fr
 
 
 #### Organizers: [*Adrián Arnaiz*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francisco Escolano*](https://ellisalicante.org/tutorials/GraphRewiring), [*Nuria Oliver*](https://ellisalicante.org/tutorials/GraphRewiring), [*Edwing Hancock*](https://ellisalicante.org/tutorials/GraphRewiring), [*Ahmed Begga*](https://ellisalicante.org/tutorials/GraphRewiring)
-#### Panelists: [*Marika Zitnik*](https://ellisalicante.org/tutorials/GraphRewiring), [*Petar Veličković*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francesco Di Giovanni*](https://ellisalicante.org/tutorials/GraphRewiring)
+#### Panelists: [*Marika Zitnik*](https://ellisalicante.org/tutorials/GraphRewiring), [*Petar Veličković*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francesco Di Giovanni*](https://ellisalicante.org/tutorials/GraphRewiring), [*Francesco Fabbri*](https://ellisalicante.org/tutorials/GraphRewiring)
 
 - [Installation](#installation)
 - [Code Explanation](#code-explanation)
@@ -84,4 +84,4 @@ url={https://openreview.net/forum?id=IXvfIex0mX6f}
 }
 ```
 
- If you use the code or the tutorial from Graph Rewiring part, please cite: ***To Be Added***.
+* If you use the code or the tutorial from ***Graph Fairness*** part, please cite: ***To Be Added***.
